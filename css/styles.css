@@ -1,5 +1,6 @@
 body{
     background-color: #EAF6F6;
+    font-family: Verdana, Arial;
 }
 
 hr{
@@ -11,4 +12,9 @@ hr{
 
 h1, h2, h3{
     color: #66BFBF;
+    font-family: Helvetica, Arial;
+}
+
+#currentPosition{
+    font-weight: bold;
 }
